@@ -3,4 +3,4 @@ Personality prediction using social media
 	Run model train	
 	Run predict
 	Run app
-	This repo contains the machine learning model
+This repo contains the machine learning model
